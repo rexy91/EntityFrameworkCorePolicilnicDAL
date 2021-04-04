@@ -1,0 +1,13 @@
+C:\Users\Administrator\Desktop\Vs2019Repos\PolyClinicDAL\PolyClinicCapstoneDAL\bin\Debug\netcoreapp3.1\PolyClinicCapstoneDAL.deps.json
+C:\Users\Administrator\Desktop\Vs2019Repos\PolyClinicDAL\PolyClinicCapstoneDAL\bin\Debug\netcoreapp3.1\PolyClinicCapstoneDAL.runtimeconfig.json
+C:\Users\Administrator\Desktop\Vs2019Repos\PolyClinicDAL\PolyClinicCapstoneDAL\bin\Debug\netcoreapp3.1\PolyClinicCapstoneDAL.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\Vs2019Repos\PolyClinicDAL\PolyClinicCapstoneDAL\bin\Debug\netcoreapp3.1\PolyClinicCapstoneDAL.dll
+C:\Users\Administrator\Desktop\Vs2019Repos\PolyClinicDAL\PolyClinicCapstoneDAL\bin\Debug\netcoreapp3.1\PolyClinicCapstoneDAL.pdb
+C:\Users\Administrator\Desktop\Vs2019Repos\PolyClinicDAL\PolyClinicCapstoneDAL\obj\Debug\netcoreapp3.1\PolyClinicCapstoneDAL.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Vs2019Repos\PolyClinicDAL\PolyClinicCapstoneDAL\obj\Debug\netcoreapp3.1\PolyClinicCapstoneDAL.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Vs2019Repos\PolyClinicDAL\PolyClinicCapstoneDAL\obj\Debug\netcoreapp3.1\PolyClinicCapstoneDAL.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Vs2019Repos\PolyClinicDAL\PolyClinicCapstoneDAL\obj\Debug\netcoreapp3.1\PolyClinicCapstoneDAL.dll
+C:\Users\Administrator\Desktop\Vs2019Repos\PolyClinicDAL\PolyClinicCapstoneDAL\obj\Debug\netcoreapp3.1\PolyClinicCapstoneDAL.pdb
+C:\Users\Administrator\Desktop\Vs2019Repos\PolyClinicDAL\PolyClinicCapstoneDAL\obj\Debug\netcoreapp3.1\PolyClinicCapstoneDAL.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\Vs2019Repos\PolyClinicDAL\PolyClinicCapstoneDAL\obj\Debug\netcoreapp3.1\PolyClinicCapstoneDAL.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Vs2019Repos\PolyClinicDAL\PolyClinicCapstoneDAL\bin\Debug\netcoreapp3.1\appsettings.json

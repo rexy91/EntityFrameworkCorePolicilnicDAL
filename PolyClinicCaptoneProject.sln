@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PolyClinicCapstoneDAL", "PolyClinicCapstoneDAL\PolyClinicCapstoneDAL.csproj", "{9CF3E9B8-5B31-4A92-879E-2206780FCCC6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PolyClinicCapstoneUI", "PolyClinicCapstoneUI\PolyClinicCapstoneUI.csproj", "{A295CFF5-E099-4F78-89F8-748F0C8355C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9CF3E9B8-5B31-4A92-879E-2206780FCCC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CF3E9B8-5B31-4A92-879E-2206780FCCC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CF3E9B8-5B31-4A92-879E-2206780FCCC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CF3E9B8-5B31-4A92-879E-2206780FCCC6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A295CFF5-E099-4F78-89F8-748F0C8355C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A295CFF5-E099-4F78-89F8-748F0C8355C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A295CFF5-E099-4F78-89F8-748F0C8355C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A295CFF5-E099-4F78-89F8-748F0C8355C9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EFD25DF1-8B52-40C4-B2AA-B998ADC7F50D}
+	EndGlobalSection
+EndGlobal

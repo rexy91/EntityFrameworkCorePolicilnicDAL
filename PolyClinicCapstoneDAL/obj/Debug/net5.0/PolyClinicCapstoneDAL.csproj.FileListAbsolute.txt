@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\Vs2019Repos\PolyClinicDAL\PolyClinicCapstoneDAL\bin\Debug\net5.0\PolyClinicCapstoneDAL.deps.json
+C:\Users\Administrator\Desktop\Vs2019Repos\PolyClinicDAL\PolyClinicCapstoneDAL\bin\Debug\net5.0\PolyClinicCapstoneDAL.runtimeconfig.json
+C:\Users\Administrator\Desktop\Vs2019Repos\PolyClinicDAL\PolyClinicCapstoneDAL\bin\Debug\net5.0\PolyClinicCapstoneDAL.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\Vs2019Repos\PolyClinicDAL\PolyClinicCapstoneDAL\bin\Debug\net5.0\PolyClinicCapstoneDAL.dll
+C:\Users\Administrator\Desktop\Vs2019Repos\PolyClinicDAL\PolyClinicCapstoneDAL\bin\Debug\net5.0\ref\PolyClinicCapstoneDAL.dll
+C:\Users\Administrator\Desktop\Vs2019Repos\PolyClinicDAL\PolyClinicCapstoneDAL\bin\Debug\net5.0\PolyClinicCapstoneDAL.pdb
+C:\Users\Administrator\Desktop\Vs2019Repos\PolyClinicDAL\PolyClinicCapstoneDAL\obj\Debug\net5.0\PolyClinicCapstoneDAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Vs2019Repos\PolyClinicDAL\PolyClinicCapstoneDAL\obj\Debug\net5.0\PolyClinicCapstoneDAL.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Vs2019Repos\PolyClinicDAL\PolyClinicCapstoneDAL\obj\Debug\net5.0\PolyClinicCapstoneDAL.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Vs2019Repos\PolyClinicDAL\PolyClinicCapstoneDAL\obj\Debug\net5.0\PolyClinicCapstoneDAL.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Vs2019Repos\PolyClinicDAL\PolyClinicCapstoneDAL\obj\Debug\net5.0\PolyClinicCapstoneDAL.dll
+C:\Users\Administrator\Desktop\Vs2019Repos\PolyClinicDAL\PolyClinicCapstoneDAL\obj\Debug\net5.0\ref\PolyClinicCapstoneDAL.dll
+C:\Users\Administrator\Desktop\Vs2019Repos\PolyClinicDAL\PolyClinicCapstoneDAL\obj\Debug\net5.0\PolyClinicCapstoneDAL.pdb
+C:\Users\Administrator\Desktop\Vs2019Repos\PolyClinicDAL\PolyClinicCapstoneDAL\obj\Debug\net5.0\PolyClinicCapstoneDAL.genruntimeconfig.cache

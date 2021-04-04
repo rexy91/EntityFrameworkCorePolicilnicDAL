@@ -1,0 +1,15 @@
+D:\Polyclinic\ConsoleApp\bin\Debug\netcoreapp2.2\appsettings.json
+D:\Polyclinic\ConsoleApp\bin\Debug\netcoreapp2.2\ConsoleApp.deps.json
+D:\Polyclinic\ConsoleApp\bin\Debug\netcoreapp2.2\ConsoleApp.runtimeconfig.json
+D:\Polyclinic\ConsoleApp\bin\Debug\netcoreapp2.2\ConsoleApp.runtimeconfig.dev.json
+D:\Polyclinic\ConsoleApp\bin\Debug\netcoreapp2.2\ConsoleApp.dll
+D:\Polyclinic\ConsoleApp\bin\Debug\netcoreapp2.2\ConsoleApp.pdb
+D:\Polyclinic\ConsoleApp\bin\Debug\netcoreapp2.2\PolyclinicDALCrossPlatform.dll
+D:\Polyclinic\ConsoleApp\bin\Debug\netcoreapp2.2\PolyclinicDALCrossPlatform.pdb
+D:\Polyclinic\ConsoleApp\obj\Debug\netcoreapp2.2\ConsoleApp.csprojAssemblyReference.cache
+D:\Polyclinic\ConsoleApp\obj\Debug\netcoreapp2.2\ConsoleApp.csproj.CoreCompileInputs.cache
+D:\Polyclinic\ConsoleApp\obj\Debug\netcoreapp2.2\ConsoleApp.AssemblyInfoInputs.cache
+D:\Polyclinic\ConsoleApp\obj\Debug\netcoreapp2.2\ConsoleApp.AssemblyInfo.cs
+D:\Polyclinic\ConsoleApp\obj\Debug\netcoreapp2.2\ConsoleApp.csproj.CopyComplete
+D:\Polyclinic\ConsoleApp\obj\Debug\netcoreapp2.2\ConsoleApp.dll
+D:\Polyclinic\ConsoleApp\obj\Debug\netcoreapp2.2\ConsoleApp.pdb
